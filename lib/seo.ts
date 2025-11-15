@@ -6,7 +6,7 @@ import { SITE_NAME, SITE_DESCRIPTION, SITE_URL, CONTACT_INFO, SOCIAL_LINKS, ORGA
 // Fallback: Use first gallery image from Unsplash (always available)
 const OG_IMAGE_URL = `${SITE_URL}/og-image.jpg`;
 // Fallback to a properly sized Unsplash image (1200x630 for OG image standard)
-const OG_IMAGE_FALLBACK =  'https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&h=630&fit=crop&q=80';
+const OG_IMAGE_FALLBACK =  'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=1200&h=630&fit=crop&q=80';
 const OG_IMAGE_WIDTH = 1200;
 const OG_IMAGE_HEIGHT = 630;
 
